@@ -1,0 +1,15 @@
+root_dir: data
+annotations_file: data/annotations.csv
+cache_dir: data/cache
+image_size: [256, 256]
+history_frames: 4
+future_steps: 8
+future_dt: 0.25
+num_workers: 4
+batch_size: 8
+val_batch_size: 8
+train_fraction: 0.8
+use_cache: true
+weighted_sampler: true
+scene_crop_scale: 1.8
+ped_crop_size: [128, 64]

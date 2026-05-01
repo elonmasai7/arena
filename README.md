@@ -18,6 +18,14 @@ your name on.
   term normalized so "do nothing" = 1.0. The repo baseline lands at
   0.74 there.
 
+## Submitted solution
+
+- **[Cross-Intent Forecast Solution](./cross-intent-forecast-solution/):**
+  production-oriented Crossing Challenge solution with a ConvNeXt/FPN
+  visual encoder, temporal transformer fusion, multimodal trajectory
+  decoder, uncertainty head, training/inference scripts, Docker support,
+  and tests.
+
 Pick **one**. One submission per candidate.
 
 ## How grading works

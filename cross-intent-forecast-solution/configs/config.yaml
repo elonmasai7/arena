@@ -1,0 +1,9 @@
+defaults:
+  - data: default
+  - model: default
+  - training: default
+  - inference: default
+
+experiment_name: cross_intent_forecast
+output_dir: outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
+seed: 42
