@@ -1,0 +1,6 @@
+tta: true
+tta_horizontal_flip: true
+ensemble_paths: []
+temperature: 1.0
+max_batch_size: 16
+benchmark_iterations: 20

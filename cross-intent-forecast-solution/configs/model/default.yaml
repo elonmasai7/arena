@@ -1,0 +1,11 @@
+backbone_name: convnext_tiny
+fpn_channels: 128
+transformer_dim: 256
+transformer_heads: 8
+transformer_layers: 4
+dropout: 0.1
+num_modes: 6
+num_waypoints: 8
+heatmap_size: [32, 32]
+interaction_dim: 64
+label_smoothing: 0.02
