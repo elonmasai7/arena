@@ -16,5 +16,5 @@ mock_eta/
 __pycache__/
 *.py[cod]
 *.egg-info/
-.venv/
+.venv
 .docker_cache/
